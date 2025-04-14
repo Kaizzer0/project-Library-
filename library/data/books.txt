@@ -1,0 +1,4 @@
+7 chien luoc thinh vuong va hanh phuc,Jihm Rohn,skill,012345689,false,Wed Apr 23 13:15:10 GMT+07:00 2025,300
+Economics,Paul A. Samueslon & Wiliam D.Nordhaus,Economy,215340564,true,null,824
+Clean Code,Robert C.Martin,skill,0554245678,false,null,PDF
+Pattern Recognition and Machine Learning,Bishop,Machine learning & AI,023467456,false,null,PDF
