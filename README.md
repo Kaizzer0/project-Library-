@@ -26,8 +26,7 @@ Table of Contents
 3.4.4. Borrowing and Returning (Reader)
 4.	Tools and Technologies
 5.	Conclusion
-6.	GitHub Repository Link & Project Structure
-7.	Appendix : Testing Screenshots
+6.	 Project Structure
 
 
 1. Introduction
