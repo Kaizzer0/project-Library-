@@ -86,7 +86,6 @@ o	EBook: Inherits Book. Represents electronic books with a file format. Cannot b
 •	LibraryManagementSystem: Central class holding List<User> and List<Book>. Handles login, user/book management operations, file I/O, and runs the main application loop. Interacts with User and Book objects.
 
  
-					--Simplified UML Class Diagram--
 3.3. Data Persistence
 •	Mechanism: Plain text files (.txt) are used for storing data.
 •	Format: Data is stored in a comma-separated value (CSV) like format.
@@ -137,9 +136,7 @@ This project successfully implemented a command-line Library Management System u
 •	Implementing search functionalities for books (by title, author) and users.
 •	Adding features like fine calculation for overdue books.
 
-6. GitHub Repository Link & Project Structure
-The complete source code for this project is available on GitHub at the following URL:
-https://github.com/Kaizzer0/project-Library-.git
+6. Project Structure
 Folder Structure:
 LibraryManagementSystem/
 ├── data/                 # Directory for data files
