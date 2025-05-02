@@ -1,5 +1,4 @@
-# Object-Oriented Programming (CT108H - Spring 2025)  
-## Final Project Report – Library Management System
+ # Library Management System
 
 ---
 
@@ -35,7 +34,7 @@
 ## 1. Introduction
 
 ### 1.1. Project Overview
-This project implements a command-line Library Management System as the final assignment for the Object-Oriented Programming (Java) course (CT108H). It allows different user roles (Admin, Librarian, Reader) to manage the library’s resources, including users, books, and borrowing transactions.
+This project implements a command-line Library Management System , it allows different user roles (Admin, Librarian, Reader) to manage the library’s resources, including users, books, and borrowing transactions.
 
 ### 1.2. Objectives
 - Apply core OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction) in Java.  
