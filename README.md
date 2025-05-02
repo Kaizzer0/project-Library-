@@ -2,13 +2,6 @@
 
 ---
 
-### Group Members
-- **Lê Trần Huy Phước** (B2303896)  
-- **Nguyễn Phúc Thuận Lợi** (B2304067)  
-- **Nguyễn Tấn Đức** (B2303867)  
-
----
-
 ## Table of Contents
 1. [Introduction](#introduction)  
    1. [Project Overview](#project-overview)  
